@@ -1,4 +1,4 @@
-## Hi, I'm Srikanth Y | Software Engineer | Story Teller 👋
+## Hi, I'm [Srikanth Y][website] | Software Engineer | Story Teller 👋
 
 **SpringSrikanth** is a ✨ _Good Resource_ ✨ and its contains more repositorys on new technologies and frame works.
 
@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Hobbies: Exploring more on new things.
 
 **Our Repositories on new frame works** 
-- React Js
-- Angular 
+- [React Js][react_repo]
+- [Angular] [angular_repo]
 - React Native
 
 <br />
@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 <br />
 
 <img align="left" alt="Srikanth Y | SpringSrikanth's Github Stats" src="https://github-readme-stats.vercel.app/api?username=springsrikanth&show_icons=true&hide_border=true" />
+
+[react_repo]: https://github.com/SpringSrikanth/ReactJS
+[angular_repo]: https://github.com/SpringSrikanth/Angular
+[website]: https://letstalkclub.herokuapp.com/
