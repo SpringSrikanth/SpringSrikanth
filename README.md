@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 **Our Repositories on new frame works** 
 - [React Js][react_repo]
-- [Angular] [angular_repo]
+- [Angular][angular_repo]
 - React Native
 
 <br />
