@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 - [LetsTalk Web][website]
 
 <br />
-<br />
+
+**Projects Worked on**
+- [LetsTalk Frontend][LetsTalk_Frontend]
+- [LetsTalk BackEnd][LetsTalk_BackEnd]
 
 **Languages and Tools:**
 
@@ -36,3 +39,5 @@ Here are some ideas to get you started:
 [angular_repo]: https://github.com/SpringSrikanth/Angular
 [website]: https://letstalkclub.herokuapp.com/
 [publicjsonserverlink]: https://my-json-server.typicode.com/springsrikanth/json_server
+[LetsTalk_Frontend]:https://github.com/SpringSrikanth/LetsTalk
+[LetsTalk_BackEnd]:https://github.com/SpringSrikanth/LetsTalk-Backend
