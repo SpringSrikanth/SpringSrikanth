@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - [React Js][react_repo]
 - [Angular][angular_repo]
 - React Native
+- [Free Json Server][publicjsonserverlink]
+- [LetsTalk Web][website]
 
 <br />
 <br />
@@ -33,3 +35,4 @@ Here are some ideas to get you started:
 [react_repo]: https://github.com/SpringSrikanth/ReactJS
 [angular_repo]: https://github.com/SpringSrikanth/Angular
 [website]: https://letstalkclub.herokuapp.com/
+[publicjsonserverlink]: https://my-json-server.typicode.com/springsrikanth/json_server
