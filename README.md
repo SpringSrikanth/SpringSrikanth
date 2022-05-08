@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Angular 9.
 - 🌱 I’m currently learning on React Js and React Native.
-- 📫 How to reach me: srikanth.yenagandula9@gmail.com.
+- 📫 How to reach me: write mail to srikanth.yenagandula9@gmail.com.
 - 🥅 2022 Goals: To gain more knowledge on new technologies
 - ⚡ Hobbies: Exploring more on new things.
 
