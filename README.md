@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 **MY GITHUB REPOS**
 - [mryenagandula][MRYENAGANDULA]
 
-**For Live Examples click on below links **
+**For Live Examples click on below links**
 - [Codesandbox][CodeSandBoxURI]
 
 **Languages and Tools:**
