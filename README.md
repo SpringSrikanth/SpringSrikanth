@@ -1,15 +1,16 @@
-## Hi, I'm [Srikanth Y][website] | Software Engineer | Story Teller 👋
+## Hi, I'm [Srikanth Y][website] | Sr. Software Engineer | Story Teller 👋
 
 **SpringSrikanth** is a ✨ _Good Resource_ ✨ and its contains more repositorys on new technologies and frame works.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Angular 19.
+- 🔭 I’m currently working on Angular 19 and Spring Boot Microservices.
 - 🌱 I’m Started learning on React Js and React Native.
 - 📫 How to reach me: write mail to srikanth.yenagandula9@gmail.com.
 - 🥅 2025 Goals: To gain more knowledge on new technologies like Spring boot Microservices incl java, hibernate
 - 🥅 Also more focus on Cloud technologies and Some other programming skills which helps my software development.
 - ⚡ Hobbies: Exploring more on new things.
+- ⚡ Using AI to make life easy......
 
 **Working on new repos stay tune you will get in some time...... Thanks for your patience in advance** 
 
